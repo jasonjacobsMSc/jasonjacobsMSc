@@ -61,18 +61,7 @@ Chemical engineer with advanced training in artificial intelligence and data ana
       </p>
     </td>
 
-    <td align="center" width="50%">
-      <h3>📊 ML for Drug Discovery</h3>
-      <a href="https://github.com/yourusername/repo2">
-        <img src="https://via.placeholder.com/400x200.png?text=Project+Preview" width="100%" alt="Project 2"/>
-      </a>
-      <p>Random Forest & Gradient Boosting models applied to pharmaceutical datasets with SHAP analysis.</p>
-      <p>
-        <a href="https://github.com/yourusername/repo2">🔗 View Repository</a>
-      </p>
-    </td>
-  </tr>
-
+    
   <tr>
     <td align="center" width="50%">
       <h3>🏦 Bank Customer Targeting</h3>
@@ -85,16 +74,7 @@ Chemical engineer with advanced training in artificial intelligence and data ana
       </p>
     </td>
 
-    <td align="center" width="50%">
-      <h3>🤖 Change Management AI</h3>
-      <a href="https://github.com/yourusername/repo4">
-        <img src="https://via.placeholder.com/400x200.png?text=Project+Preview" width="100%" alt="Project 4"/>
-      </a>
-      <p>ShiftWise AI platform for employee transition risk modeling and process optimization.</p>
-      <p>
-        <a href="https://github.com/yourusername/repo4">🔗 View Repository</a>
-      </p>
-    </td>
+    
   </tr>
 </table>
 
