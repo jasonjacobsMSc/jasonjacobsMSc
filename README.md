@@ -13,7 +13,7 @@ Chemical engineer with advanced training in artificial intelligence and data ana
 [![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/autocad/overview)
 [![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://www.tableau.com/)
-[![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+
 
 
 ---
