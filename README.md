@@ -48,35 +48,13 @@ Chemical engineer with advanced training in artificial intelligence and data ana
 
 ## 🚀 Project Showcase
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🧠 Bayesian Network Modeling</h3>
-      <a href="https://github.com/yourusername/repo1">
-        <img src="https://via.placeholder.com/400x200.png?text=Project+Preview" width="100%" alt="Project 1"/>
-      </a>
-      <p>Probabilistic Graphical Models for uncertainty-aware predictions and synthetic data generation.</p>
-      <p>
-        <a href="https://github.com/yourusername/repo1">🔗 View Repository</a>
-      </p>
-    </td>
+| Project | Link |
+|------|------|
+| Molecular-Solubility-Prediction-Drug-Target-Interaction | https://github.com/jasonjacobsMSc/Molecular-Solubility-Prediction-Drug-Target-Interaction-DTI-Pipeline |
+| Leveraging-Probabilistic-Graphical-Models-for-Training-and-Predictive-Uncertainty | https://github.com/jasonjacobsMSc/Leveraging-Probabilistic-Graphical-Models-for-Training-and-Predictive-Uncertainty |
+| Bank Personal Loan Prediction | https://github.com/jasonjacobsMSc/Bank-Loan-Customer-Prediction |
+| ShiftWise: AI-Powered Change Management Platform | https://github.com/jasonjacobsMSc/ShiftWise-Leveraging-AI-in-Change-Management- |
 
-    
-  <tr>
-    <td align="center" width="50%">
-      <h3>🏦 Bank Customer Targeting</h3>
-      <a href="https://github.com/yourusername/repo3">
-        <img src="https://via.placeholder.com/400x200.png?text=Project+Preview" width="100%" alt="Project 3"/>
-      </a>
-      <p>Predictive analytics on depositor data to identify high-value loan customers.</p>
-      <p>
-        <a href="https://github.com/yourusername/repo3">🔗 View Repository</a>
-      </p>
-    </td>
-
-    
-  </tr>
-</table>
 
 ---
 
