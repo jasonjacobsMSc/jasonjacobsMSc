@@ -1,6 +1,6 @@
 ## About Me 👋
 
-Chemical engineer with advanced training in artificial intelligence and data analytics, uniquely positioned to apply machine learning to pharmaceutical and life sciences challenges. Combines deep understanding of chemical processes, molecular systems, and reaction engineering with expertise in Python-based ML pipelines, statistical analysis, and data-driven optimization. Proven ability to bridge technical ML concepts with domain-specific scientific constraints, translate complex models for cross-functional stakeholders, and deliver actionable insights from experimental data. Seeking ML Engineer or Computational Scientist roles in pharmaceutical drug discovery, development, or manufacturing.
+Chemical engineer with advanced training in artificial intelligence and data analytics, uniquely positioned to apply machine learning to business and life sciences challenges. Combines deep understanding of engineering principles and problem-solving skills with expertise in Python-based ML pipelines, statistical analysis, and data-driven optimization. Proven ability to bridge technical ML concepts with domain-specific scientific constraints, translate complex models for cross-functional stakeholders, and deliver actionable insights from experimental data. Seeking ML Engineer, Data/Business Analyst or Data Scientist roles.
 
 
 ---
